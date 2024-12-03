@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/pokhrel-richa/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pokhrel-richa/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pokhrel-richa/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pokhrel-richa/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pokhrel-richa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pokhrel-richa/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/pokhrel-richa/LeetCode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pokhrel-richa/LeetCode/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pokhrel-richa/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
