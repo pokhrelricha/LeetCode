@@ -1,14 +1,13 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
            List<Integer> result = new ArrayList<>();
-           
+
         if (s == null || words == null || words.length == 0) {
             return result;
         }
 
         int wordLen = words[0].length();
         int wordCount = words.length;
-        int totalLen = wordLen * wordCount;
 
         // Create a frequency map of the words
         Map<String, Integer> wordMap = new HashMap<>();
